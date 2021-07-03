@@ -1,2 +1,3 @@
 "para copiar utiliza as teclas ctrl + shift + c"
 "para colar utiliza as teclas ctrl + shift + v"
+" para colar utiliza as teclas shift + tecla insert, e nao as teclas da linha acima"
